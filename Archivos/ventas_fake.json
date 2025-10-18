@@ -1,0 +1,1481 @@
+[
+    {
+        "Folio": 1050,
+        "Fecha": "2025-08-14",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 4902.79,
+                "Subtotal": 4902.79
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 111.02,
+                "Subtotal": 111.02
+            }
+        ],
+        "Total": 5013.81
+    },
+    {
+        "Folio": 1051,
+        "Fecha": "2025-06-03",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 1,
+                "Importe": 407.12,
+                "Subtotal": 407.12
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 568.78,
+                "Subtotal": 1137.56
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 4737.15,
+                "Subtotal": 4737.15
+            }
+        ],
+        "Total": 6281.83
+    },
+    {
+        "Folio": 1052,
+        "Fecha": "2025-07-12",
+        "CodCli": "C001",
+        "Nombre": "Juan Pérez",
+        "Productos": [
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 2,
+                "Importe": 490.05,
+                "Subtotal": 980.1
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 4511.48,
+                "Subtotal": 13534.44
+            }
+        ],
+        "Total": 14514.54
+    },
+    {
+        "Folio": 1053,
+        "Fecha": "2025-07-21",
+        "CodCli": "C010",
+        "Nombre": "Fernanda Gómez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 286.73,
+                "Subtotal": 573.46
+            }
+        ],
+        "Total": 573.46
+    },
+    {
+        "Folio": 1054,
+        "Fecha": "2025-06-04",
+        "CodCli": "C010",
+        "Nombre": "Fernanda Gómez",
+        "Productos": [
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 1,
+                "Importe": 4925.8,
+                "Subtotal": 4925.8
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 3,
+                "Importe": 1604.34,
+                "Subtotal": 4813.02
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 3,
+                "Importe": 4127.78,
+                "Subtotal": 12383.34
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 2,
+                "Importe": 1896.43,
+                "Subtotal": 3792.86
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 2375.49,
+                "Subtotal": 4750.98
+            }
+        ],
+        "Total": 30666.0
+    },
+    {
+        "Folio": 1055,
+        "Fecha": "2025-07-12",
+        "CodCli": "C003",
+        "Nombre": "Carlos Sánchez",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 477.25,
+                "Subtotal": 954.5
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 484.87,
+                "Subtotal": 1454.61
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 681.47,
+                "Subtotal": 1362.94
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 4459.75,
+                "Subtotal": 8919.5
+            }
+        ],
+        "Total": 12691.55
+    },
+    {
+        "Folio": 1056,
+        "Fecha": "2025-07-07",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 3,
+                "Importe": 4743.5,
+                "Subtotal": 14230.5
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 3351.33,
+                "Subtotal": 3351.33
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 1835.94,
+                "Subtotal": 1835.94
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 2,
+                "Importe": 1504.3,
+                "Subtotal": 3008.6
+            }
+        ],
+        "Total": 22426.37
+    },
+    {
+        "Folio": 1057,
+        "Fecha": "2025-05-30",
+        "CodCli": "C005",
+        "Nombre": "Luis Ramírez",
+        "Productos": [
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 3523.5,
+                "Subtotal": 10570.5
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 3110.87,
+                "Subtotal": 9332.61
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 2,
+                "Importe": 3598.84,
+                "Subtotal": 7197.68
+            },
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 3,
+                "Importe": 4289.78,
+                "Subtotal": 12869.34
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 238.77,
+                "Subtotal": 238.77
+            }
+        ],
+        "Total": 40208.9
+    },
+    {
+        "Folio": 1058,
+        "Fecha": "2025-05-30",
+        "CodCli": "C008",
+        "Nombre": "Laura Jiménez",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 3837.06,
+                "Subtotal": 3837.06
+            }
+        ],
+        "Total": 3837.06
+    },
+    {
+        "Folio": 1059,
+        "Fecha": "2025-06-24",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 2774.66,
+                "Subtotal": 2774.66
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 1397.05,
+                "Subtotal": 2794.1
+            }
+        ],
+        "Total": 5568.76
+    },
+    {
+        "Folio": 1060,
+        "Fecha": "2025-07-11",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 3,
+                "Importe": 1429.0,
+                "Subtotal": 4287.0
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 3,
+                "Importe": 4389.43,
+                "Subtotal": 13168.29
+            }
+        ],
+        "Total": 17455.29
+    },
+    {
+        "Folio": 1061,
+        "Fecha": "2025-06-29",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 3874.54,
+                "Subtotal": 3874.54
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 1369.97,
+                "Subtotal": 1369.97
+            }
+        ],
+        "Total": 5244.51
+    },
+    {
+        "Folio": 1062,
+        "Fecha": "2025-06-28",
+        "CodCli": "C001",
+        "Nombre": "Juan Pérez",
+        "Productos": [
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 1,
+                "Importe": 2858.7,
+                "Subtotal": 2858.7
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 2,
+                "Importe": 704.88,
+                "Subtotal": 1409.76
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 4484.86,
+                "Subtotal": 4484.86
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 2,
+                "Importe": 3346.38,
+                "Subtotal": 6692.76
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 1038.29,
+                "Subtotal": 2076.58
+            }
+        ],
+        "Total": 17522.66
+    },
+    {
+        "Folio": 1063,
+        "Fecha": "2025-07-25",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 3607.78,
+                "Subtotal": 7215.56
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 993.01,
+                "Subtotal": 1986.02
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 3,
+                "Importe": 2045.54,
+                "Subtotal": 6136.62
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 1,
+                "Importe": 4370.29,
+                "Subtotal": 4370.29
+            }
+        ],
+        "Total": 19708.49
+    },
+    {
+        "Folio": 1064,
+        "Fecha": "2025-06-01",
+        "CodCli": "C008",
+        "Nombre": "Laura Jiménez",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 3637.33,
+                "Subtotal": 3637.33
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 2416.28,
+                "Subtotal": 4832.56
+            }
+        ],
+        "Total": 8469.89
+    },
+    {
+        "Folio": 1065,
+        "Fecha": "2025-07-07",
+        "CodCli": "C006",
+        "Nombre": "Sofía Hernández",
+        "Productos": [
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 2,
+                "Importe": 4159.44,
+                "Subtotal": 8318.88
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 3,
+                "Importe": 1391.62,
+                "Subtotal": 4174.86
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 4097.07,
+                "Subtotal": 12291.21
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 4781.75,
+                "Subtotal": 14345.25
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 1818.61,
+                "Subtotal": 1818.61
+            }
+        ],
+        "Total": 40948.81
+    },
+    {
+        "Folio": 1066,
+        "Fecha": "2025-06-13",
+        "CodCli": "C008",
+        "Nombre": "Laura Jiménez",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 2408.53,
+                "Subtotal": 4817.06
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 344.62,
+                "Subtotal": 344.62
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 1,
+                "Importe": 3098.44,
+                "Subtotal": 3098.44
+            }
+        ],
+        "Total": 8260.12
+    },
+    {
+        "Folio": 1067,
+        "Fecha": "2025-07-24",
+        "CodCli": "C010",
+        "Nombre": "Fernanda Gómez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 3,
+                "Importe": 2099.79,
+                "Subtotal": 6299.37
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 1,
+                "Importe": 3927.93,
+                "Subtotal": 3927.93
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 4028.83,
+                "Subtotal": 8057.66
+            }
+        ],
+        "Total": 18284.96
+    },
+    {
+        "Folio": 1068,
+        "Fecha": "2025-07-01",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 632.91,
+                "Subtotal": 632.91
+            }
+        ],
+        "Total": 632.91
+    },
+    {
+        "Folio": 1069,
+        "Fecha": "2025-06-08",
+        "CodCli": "C007",
+        "Nombre": "Pedro Torres",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 4452.5,
+                "Subtotal": 8905.0
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 2584.4,
+                "Subtotal": 7753.2
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 1,
+                "Importe": 3205.95,
+                "Subtotal": 3205.95
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 3074.6,
+                "Subtotal": 9223.8
+            }
+        ],
+        "Total": 29087.95
+    },
+    {
+        "Folio": 1070,
+        "Fecha": "2025-06-28",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 3,
+                "Importe": 3148.28,
+                "Subtotal": 9444.84
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 3,
+                "Importe": 4597.42,
+                "Subtotal": 13792.26
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 3,
+                "Importe": 1597.11,
+                "Subtotal": 4791.33
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 1641.0,
+                "Subtotal": 1641.0
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 2,
+                "Importe": 2166.56,
+                "Subtotal": 4333.12
+            }
+        ],
+        "Total": 34002.55
+    },
+    {
+        "Folio": 1071,
+        "Fecha": "2025-07-18",
+        "CodCli": "C005",
+        "Nombre": "Luis Ramírez",
+        "Productos": [
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 2645.74,
+                "Subtotal": 2645.74
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 4386.02,
+                "Subtotal": 4386.02
+            }
+        ],
+        "Total": 7031.76
+    },
+    {
+        "Folio": 1072,
+        "Fecha": "2025-05-24",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 512.5,
+                "Subtotal": 1537.5
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 4589.16,
+                "Subtotal": 9178.32
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 2423.23,
+                "Subtotal": 7269.69
+            }
+        ],
+        "Total": 17985.51
+    },
+    {
+        "Folio": 1073,
+        "Fecha": "2025-06-24",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 4565.54,
+                "Subtotal": 13696.62
+            }
+        ],
+        "Total": 13696.62
+    },
+    {
+        "Folio": 1074,
+        "Fecha": "2025-06-22",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 3909.57,
+                "Subtotal": 3909.57
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 1672.27,
+                "Subtotal": 5016.81
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 1,
+                "Importe": 480.81,
+                "Subtotal": 480.81
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 1555.2,
+                "Subtotal": 4665.6
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 2406.9,
+                "Subtotal": 7220.7
+            }
+        ],
+        "Total": 21293.49
+    },
+    {
+        "Folio": 1075,
+        "Fecha": "2025-07-21",
+        "CodCli": "C007",
+        "Nombre": "Pedro Torres",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 2,
+                "Importe": 2615.48,
+                "Subtotal": 5230.96
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 1,
+                "Importe": 2098.66,
+                "Subtotal": 2098.66
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 3304.68,
+                "Subtotal": 9914.04
+            }
+        ],
+        "Total": 17243.66
+    },
+    {
+        "Folio": 1076,
+        "Fecha": "2025-06-15",
+        "CodCli": "C010",
+        "Nombre": "Fernanda Gómez",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 1397.24,
+                "Subtotal": 4191.72
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 1,
+                "Importe": 1699.33,
+                "Subtotal": 1699.33
+            }
+        ],
+        "Total": 5891.05
+    },
+    {
+        "Folio": 1077,
+        "Fecha": "2025-06-27",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 2,
+                "Importe": 1295.14,
+                "Subtotal": 2590.28
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 4529.07,
+                "Subtotal": 9058.14
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 507.35,
+                "Subtotal": 507.35
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 2,
+                "Importe": 793.3,
+                "Subtotal": 1586.6
+            }
+        ],
+        "Total": 13742.37
+    },
+    {
+        "Folio": 1078,
+        "Fecha": "2025-05-20",
+        "CodCli": "C001",
+        "Nombre": "Juan Pérez",
+        "Productos": [
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 1,
+                "Importe": 340.89,
+                "Subtotal": 340.89
+            },
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 1,
+                "Importe": 401.46,
+                "Subtotal": 401.46
+            }
+        ],
+        "Total": 742.35
+    },
+    {
+        "Folio": 1079,
+        "Fecha": "2025-08-07",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 3917.55,
+                "Subtotal": 7835.1
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 3,
+                "Importe": 3334.61,
+                "Subtotal": 10003.83
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 3,
+                "Importe": 560.17,
+                "Subtotal": 1680.51
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 3801.5,
+                "Subtotal": 7603.0
+            }
+        ],
+        "Total": 27122.44
+    },
+    {
+        "Folio": 1080,
+        "Fecha": "2025-08-15",
+        "CodCli": "C010",
+        "Nombre": "Fernanda Gómez",
+        "Productos": [
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 3964.71,
+                "Subtotal": 11894.13
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 3,
+                "Importe": 3954.53,
+                "Subtotal": 11863.59
+            }
+        ],
+        "Total": 23757.72
+    },
+    {
+        "Folio": 1081,
+        "Fecha": "2025-06-18",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 2,
+                "Importe": 3207.02,
+                "Subtotal": 6414.04
+            }
+        ],
+        "Total": 6414.04
+    },
+    {
+        "Folio": 1082,
+        "Fecha": "2025-06-22",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 3,
+                "Importe": 764.49,
+                "Subtotal": 2293.47
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 3,
+                "Importe": 1518.64,
+                "Subtotal": 4555.92
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 2,
+                "Importe": 4577.42,
+                "Subtotal": 9154.84
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 1932.74,
+                "Subtotal": 1932.74
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 2772.87,
+                "Subtotal": 5545.74
+            }
+        ],
+        "Total": 23482.71
+    },
+    {
+        "Folio": 1083,
+        "Fecha": "2025-06-09",
+        "CodCli": "C005",
+        "Nombre": "Luis Ramírez",
+        "Productos": [
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 2,
+                "Importe": 2119.87,
+                "Subtotal": 4239.74
+            }
+        ],
+        "Total": 4239.74
+    },
+    {
+        "Folio": 1084,
+        "Fecha": "2025-08-08",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 4755.82,
+                "Subtotal": 4755.82
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 3577.88,
+                "Subtotal": 7155.76
+            },
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 1,
+                "Importe": 4469.68,
+                "Subtotal": 4469.68
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 1097.25,
+                "Subtotal": 1097.25
+            }
+        ],
+        "Total": 17478.51
+    },
+    {
+        "Folio": 1085,
+        "Fecha": "2025-08-02",
+        "CodCli": "C006",
+        "Nombre": "Sofía Hernández",
+        "Productos": [
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 2398.64,
+                "Subtotal": 7195.92
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 3521.36,
+                "Subtotal": 7042.72
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 3,
+                "Importe": 3954.28,
+                "Subtotal": 11862.84
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 3866.13,
+                "Subtotal": 7732.26
+            }
+        ],
+        "Total": 33833.74
+    },
+    {
+        "Folio": 1086,
+        "Fecha": "2025-08-15",
+        "CodCli": "C009",
+        "Nombre": "Miguel Castillo",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 2,
+                "Importe": 4426.83,
+                "Subtotal": 8853.66
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 2947.16,
+                "Subtotal": 2947.16
+            }
+        ],
+        "Total": 11800.82
+    },
+    {
+        "Folio": 1087,
+        "Fecha": "2025-07-31",
+        "CodCli": "C003",
+        "Nombre": "Carlos Sánchez",
+        "Productos": [
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 3,
+                "Importe": 3896.17,
+                "Subtotal": 11688.51
+            }
+        ],
+        "Total": 11688.51
+    },
+    {
+        "Folio": 1088,
+        "Fecha": "2025-07-25",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 4334.19,
+                "Subtotal": 4334.19
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 1,
+                "Importe": 1299.85,
+                "Subtotal": 1299.85
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 4239.34,
+                "Subtotal": 4239.34
+            }
+        ],
+        "Total": 9873.38
+    },
+    {
+        "Folio": 1089,
+        "Fecha": "2025-07-23",
+        "CodCli": "C001",
+        "Nombre": "Juan Pérez",
+        "Productos": [
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 1,
+                "Importe": 398.59,
+                "Subtotal": 398.59
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 3,
+                "Importe": 4900.17,
+                "Subtotal": 14700.51
+            }
+        ],
+        "Total": 15099.1
+    },
+    {
+        "Folio": 1090,
+        "Fecha": "2025-07-25",
+        "CodCli": "C002",
+        "Nombre": "María López",
+        "Productos": [
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 2,
+                "Importe": 1302.02,
+                "Subtotal": 2604.04
+            }
+        ],
+        "Total": 2604.04
+    },
+    {
+        "Folio": 1091,
+        "Fecha": "2025-06-14",
+        "CodCli": "C006",
+        "Nombre": "Sofía Hernández",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 3,
+                "Importe": 3682.15,
+                "Subtotal": 11046.45
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 3219.53,
+                "Subtotal": 6439.06
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 3,
+                "Importe": 1358.39,
+                "Subtotal": 4075.17
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 3,
+                "Importe": 3337.8,
+                "Subtotal": 10013.4
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 1,
+                "Importe": 2306.22,
+                "Subtotal": 2306.22
+            }
+        ],
+        "Total": 33880.3
+    },
+    {
+        "Folio": 1092,
+        "Fecha": "2025-06-08",
+        "CodCli": "C003",
+        "Nombre": "Carlos Sánchez",
+        "Productos": [
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 139.32,
+                "Subtotal": 139.32
+            },
+            {
+                "CodProd": "P001",
+                "Descripcion": "Teclado Mecánico",
+                "Cantidad": 2,
+                "Importe": 881.97,
+                "Subtotal": 1763.94
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 4462.86,
+                "Subtotal": 8925.72
+            },
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 1,
+                "Importe": 3568.62,
+                "Subtotal": 3568.62
+            },
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 1,
+                "Importe": 1904.48,
+                "Subtotal": 1904.48
+            }
+        ],
+        "Total": 16302.08
+    },
+    {
+        "Folio": 1093,
+        "Fecha": "2025-06-27",
+        "CodCli": "C008",
+        "Nombre": "Laura Jiménez",
+        "Productos": [
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 2195.22,
+                "Subtotal": 4390.44
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 3,
+                "Importe": 4481.52,
+                "Subtotal": 13444.56
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 237.83,
+                "Subtotal": 475.66
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 2379.26,
+                "Subtotal": 2379.26
+            }
+        ],
+        "Total": 20689.92
+    },
+    {
+        "Folio": 1094,
+        "Fecha": "2025-08-15",
+        "CodCli": "C001",
+        "Nombre": "Juan Pérez",
+        "Productos": [
+            {
+                "CodProd": "P008",
+                "Descripcion": "Silla Ergonómica",
+                "Cantidad": 1,
+                "Importe": 3422.53,
+                "Subtotal": 3422.53
+            },
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 3,
+                "Importe": 4562.81,
+                "Subtotal": 13688.43
+            },
+            {
+                "CodProd": "P002",
+                "Descripcion": "Mouse Inalámbrico",
+                "Cantidad": 3,
+                "Importe": 2842.06,
+                "Subtotal": 8526.18
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 2,
+                "Importe": 1913.25,
+                "Subtotal": 3826.5
+            },
+            {
+                "CodProd": "P009",
+                "Descripcion": "Webcam HD",
+                "Cantidad": 1,
+                "Importe": 2649.32,
+                "Subtotal": 2649.32
+            }
+        ],
+        "Total": 32112.96
+    },
+    {
+        "Folio": 1095,
+        "Fecha": "2025-08-08",
+        "CodCli": "C004",
+        "Nombre": "Ana Martínez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 1386.19,
+                "Subtotal": 2772.38
+            },
+            {
+                "CodProd": "P003",
+                "Descripcion": "Monitor 24\"",
+                "Cantidad": 1,
+                "Importe": 3023.94,
+                "Subtotal": 3023.94
+            },
+            {
+                "CodProd": "P006",
+                "Descripcion": "Disco Duro 1TB",
+                "Cantidad": 1,
+                "Importe": 2597.83,
+                "Subtotal": 2597.83
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 2,
+                "Importe": 1835.38,
+                "Subtotal": 3670.76
+            }
+        ],
+        "Total": 12064.91
+    },
+    {
+        "Folio": 1096,
+        "Fecha": "2025-08-06",
+        "CodCli": "C005",
+        "Nombre": "Luis Ramírez",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 131.6,
+                "Subtotal": 263.2
+            }
+        ],
+        "Total": 263.2
+    },
+    {
+        "Folio": 1097,
+        "Fecha": "2025-05-25",
+        "CodCli": "C008",
+        "Nombre": "Laura Jiménez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 3,
+                "Importe": 3195.64,
+                "Subtotal": 9586.92
+            },
+            {
+                "CodProd": "P004",
+                "Descripcion": "Laptop 15\"",
+                "Cantidad": 3,
+                "Importe": 3749.79,
+                "Subtotal": 11249.37
+            },
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 1078.4,
+                "Subtotal": 2156.8
+            },
+            {
+                "CodProd": "P010",
+                "Descripcion": "Audífonos Bluetooth",
+                "Cantidad": 3,
+                "Importe": 3993.72,
+                "Subtotal": 11981.16
+            }
+        ],
+        "Total": 34974.25
+    },
+    {
+        "Folio": 1098,
+        "Fecha": "2025-08-10",
+        "CodCli": "C003",
+        "Nombre": "Carlos Sánchez",
+        "Productos": [
+            {
+                "CodProd": "P007",
+                "Descripcion": "Impresora Multifuncional",
+                "Cantidad": 2,
+                "Importe": 4245.75,
+                "Subtotal": 8491.5
+            }
+        ],
+        "Total": 8491.5
+    },
+    {
+        "Folio": 1099,
+        "Fecha": "2025-06-25",
+        "CodCli": "C003",
+        "Nombre": "Carlos Sánchez",
+        "Productos": [
+            {
+                "CodProd": "P005",
+                "Descripcion": "Memoria USB 32GB",
+                "Cantidad": 2,
+                "Importe": 526.06,
+                "Subtotal": 1052.12
+            }
+        ],
+        "Total": 1052.12
+    }
+]

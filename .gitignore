@@ -1,0 +1,39 @@
+# =====================
+# .NET / WinForms (VS Code)
+# =====================
+
+# Build artifacts
+bin/
+obj/
+
+# Rider / VS Code project settings (optional, include if not needed in team)
+.vscode/
+*.suo
+*.user
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Others
+*.db
+
+# Secrets or local configs (add if you use)
+appsettings.Development.json
+
+# Ignore compiled files in obj/bin even in deeper subfolders
+**/bin/
+**/obj/
